@@ -12,4 +12,4 @@ This talk will give a quick overview of the current capabilities of the platform
 The SVG is the source file, the PDF slides can be exported using [Vector Slicer](https://flathub.org/apps/details/org.gnome.design.VectorSlicer).
 
 ## Video
-Video recording including Q&A: https://video.fosdem.org/2022/D.mobile/mobile_adwaita.webm
+Video recording including Q&A on the FOSDEM website: https://fosdem.org/2022/schedule/event/mobile_adwaita
